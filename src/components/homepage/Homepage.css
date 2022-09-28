@@ -1,0 +1,113 @@
+.Subscribe{color:rgb(178, 184, 190);padding-left:1%;font-size: large; line-height:23px; margin-left: 2%;} 
+.Submit{     border-color: rgb(80, 76, 76);
+    border-width: 0.5px;;background-color: rgb(37, 37, 37);; color:rgb(178, 184, 190); font-size: large; width:fit-content ;margin-bottom: 1%; margin-left: 5px; } 
+#email{
+    margin-left:2%;
+    border-width: 1px;
+    margin-right: 1%;
+    width: 34%;
+    border-color: rgb(80, 76, 76);
+    margin-top: 1%;
+    background-color: #a8a1a1;
+    border-style: solid;
+    outline: 0;
+}
+.Signup
+{
+   margin-right: 2%;
+   font-size: xx-large;
+}
+.Signup1
+{
+   margin-right: 0%;
+   color:rgb(178, 184, 190);
+}
+.Button{
+    border-color: rgb(80, 76, 76);
+    border-width: 2px;
+    background-color: rgb(37, 37, 37);
+    color:rgb(178, 184, 190);
+    border-style: solid;
+}
+#email::placeholder {
+   color: black;
+   font-size: 14px;
+ }   
+ .headphoto2{
+    width: 90%; 
+    height: 300px;
+ } 
+ .head{
+    padding-top: 2%;
+    text-align: center;
+    width: 100%;
+    color: black;
+ }
+ .title{
+    font-size:x-large;
+    color:rgb(178, 184, 190);
+ }
+ .extracontent{
+    text-align: left;
+ }
+ #uicard{
+    width: 25%;
+    margin-inline: 4%;
+    display:inline-flex; 
+    background-color: #a8a1a1;
+    border-style: solid;
+
+ }
+ .description{
+    text-align:left;
+    font-size: small;
+ }
+
+
+#button1{
+    color: black;
+    margin-top: 30px;
+}
+#button2{
+    color: black;
+    margin-top: 30px;
+    background-color:#a8a1a1 ;
+    margin-bottom: 6%;
+    border-style: solid;
+}
+.item1{
+    vertical-align: top;
+    display:inline-block; 
+    padding-left: 1%;
+}
+.item2{
+    vertical-align: top;
+    display:inline-block; 
+    padding-left: 28%;
+}
+.item{
+    display:flex; 
+    color: black;
+
+}
+.item3{
+    vertical-align: top;
+    display:inline-block; 
+    padding-left: 5%;
+    color: black;
+    margin-bottom: 5%;
+}
+.bottompage{
+    margin-top: 3%;
+    background-color: rgb(85, 83, 83);
+    padding-left: 30px;
+    color: black;
+}
+
+.menu{
+    margin-top: 10px;
+}
+.box3{
+    float: right;
+    padding-right: 2%;
+}

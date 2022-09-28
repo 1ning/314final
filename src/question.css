@@ -1,0 +1,134 @@
+
+
+#bad{
+    float: left;
+}
+.headbox1{
+    width: 100%;
+    border-bottom:1px solid rgba(145, 143, 143, 0.26);
+    background-color: rgb(53, 54, 54);
+}
+.headbox2{
+    width: 100%;
+    border-top:1px solid rgba(145, 143, 143, 0.26);
+    border-bottom:1px solid rgba(145, 143, 143, 0.26);
+    margin-top: 2%;
+    height: 40px;
+}
+.fw{
+  margin-left: 90%;
+  font-size:small
+}
+.SD{
+    margin-top: 0%;
+    margin-left: 90%;
+    width: fit-content;
+    border-color: rgb(80, 76, 76);
+    border-width: 0.5px;
+    background-color: rgb(37, 37, 37);
+    color:rgb(178, 184, 190);
+}
+
+.cinema{
+    font-size: 1%;
+    
+}
+#selection
+{
+    margin-left: 0%;
+    width: 8%;
+    height: 20px;
+    font-size: small;
+    outline: none;
+    border-color: rgb(80, 76, 76);
+    border-width: 0.2px;
+    border-style:solid;
+    background-color: rgb(37, 37, 37);
+    color:rgb(178, 184, 190);
+}
+#search{
+    outline: none;
+    background: url("/photo/search.png") no-repeat ;
+    background-size: 20px;
+    background-position:1px 0px;
+    margin-left:7%;
+    background-color: rgb(240, 248, 255);
+    width: 70%;
+    border-width: 0;
+    height: 20px;
+    padding-left: 30px;
+}
+.photo{
+    width:100%;
+    margin-top: 6%;
+}
+.big2{
+    width: 90%;
+    display: flex;
+    padding-top: 1%;
+}
+.big1{
+    width: 15%;
+    float: left;
+}
+.light{
+    color: black;
+}
+.lightbox{
+    color: black;
+    flex: 0.4;
+}
+.box3{
+    width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-bottom: 0.2%;
+}
+
+.switch{
+    border-color: rgb(80, 76, 76);
+    border-width: 1px;
+    border-style:solid;
+    background-color: rgb(37, 37, 37);
+    color:rgb(178, 184, 190);
+   
+}
+.submit
+{
+    font-size: medium;
+    height: 20px;
+    background-color: rgb(37, 37, 37);
+    color:rgb(178, 184, 190);
+}
+.switch3{
+    border-color: rgb(80, 76, 76);
+    border-width: 1px;
+    width:fit-content;
+    border-style:solid;
+    background-color: rgb(37, 37, 37);
+    color:rgb(178, 184, 190);
+    flex: 0.2;
+}
+.switch2{
+    border-color: rgb(80, 76, 76);
+    border-width: 1px;
+    width:fit-content;
+    border-style:solid;
+    background-color: rgb(53, 54, 54);
+    color:rgb(178, 184, 190);
+    flex: 0.1;
+}
+.global
+{
+    display: flex;
+}
+.Globalswicthes
+{
+    padding-top: 5%;
+    color: rgb(178, 184, 190);
+    font-size: larger;
+}
+.lightbox2
+{
+    margin-right: 2%;
+}

@@ -1,0 +1,59 @@
+.top{
+    padding-left:2%;font-size: 25; line-height:23px; width: 96%;font-size: large;
+   margin-top: 3%;
+} 
+.Radio{
+   padding-left: 2%;
+   margin-top: 2%;
+}
+.Radio1{
+    padding-right: 1%;
+ }
+ .Radio2{
+    padding-bottom: 3%;
+ }
+ #level{
+    outline:0;
+ }
+ .box1{
+      width: 98%;
+    }
+.box2{
+    border-color: black;
+      }
+.upload{
+    display: inline-table;
+    width: min-content;
+    margin-left: 1%;
+}
+.textbox{
+    width: 90%;
+    border-width: 1px;
+    font-size: smaller;
+    outline:none;
+    background-color: white;
+}
+.textbox2{
+    width: 45%;
+    border-width: 1px;
+    font-size: smaller;
+    outline:none;
+}
+.button1{
+ margin-left: 80%;
+ width: 15%;
+ border-color: rgb(80, 76, 76);
+ border-width: 0.5px;
+ background-color: rgb(37, 37, 37);
+ color:rgb(178, 184, 190);
+ border-style: solid;
+
+}
+.uploadbox{
+    width:100%;
+    font-size: 20%;
+}
+.upload
+{
+    width:8%;
+}

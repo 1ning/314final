@@ -1,0 +1,35 @@
+
+.headphoto{
+    width: 60px;
+    height: 60px;
+    
+}
+.light{
+    color: black;
+}
+.lightbox{
+    color: black;
+    flex: 0.4;
+}
+
+#sadasd
+{
+    margin-top: 2%;
+    width: 98%;
+  
+}
+.big{
+    text-align:center;  
+}
+.light{
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+.tip
+{
+    width:150px;
+    border-style:solid;
+    border-radius:5px;
+    background-color: rgb(37, 37, 37);
+    color:rgb(178, 184, 190);
+}

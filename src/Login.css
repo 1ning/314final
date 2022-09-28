@@ -1,0 +1,90 @@
+.inputContainer{
+    display: flex;
+    padding-bottom: 7px;
+}
+.loginbox{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: fit-content;
+    width: 220px;
+    margin: auto;
+}
+body{
+    background: rgb(37, 37, 37);
+}
+.backgroundbox
+{
+    background: rgb(37, 37, 37);
+    width: 100%;
+}
+.signupbox{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: fit-content;
+    width: 390px;
+    margin: auto;
+}
+.label{
+    flex: 0.32;
+}
+.input{
+    background-color: white;
+    width: 150px;
+    margin-bottom: 10px;
+    outline: none;
+    flex: 0.7;
+    font-size: small;
+}
+.input1{
+    border-width: 0.5px;
+    width: 150px;
+    background-color: white;
+    border-color: rgb(85, 85, 85);
+    margin-bottom: 10px;
+    border-style: solid;
+    outline: none;
+    flex: 1;
+    margin-top: 5PX;
+}
+.submitBtn{
+    margin-top: 5px;
+    height: 30PX;
+    flex: 1;
+    border-color: rgb(80, 76, 76);
+    border-width: 0.5px;
+    background-color: rgb(37, 37, 37);
+    color:rgb(178, 184, 190);
+    border-style: solid;
+}
+.tip2{
+flex: 0.5;
+color:black;
+}
+.submitBtn1{
+    margin-top: 5px;
+    width: 200px;
+    flex: 0.7;
+    height: 25px;
+    border-color: rgb(80, 76, 76);
+    border-width: 0.5px;
+    background-color: rgb(37, 37, 37);
+    color:rgb(178, 184, 190);
+    border-style: solid;
+}
+.signup{
+    font-size: medium;
+    border-color: rgb(80, 76, 76);
+    border-width: 0.5px;
+    background-color: rgb(37, 37, 37);
+    color:rgb(178, 184, 190);
+    border-style: solid;
+}
+.find{
+    color:rgb(178, 184, 190);
+}

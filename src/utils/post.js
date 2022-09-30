@@ -31,7 +31,7 @@ export function postrequest2(item)
   var z=item;
   z.time=hh;
 
-  fetch('http://127.0.0.1:4000/global', {
+  fetch('http://172.31.82.49:4000/global', {
     method: 'POST',
     body: JSON.stringify(
       z
